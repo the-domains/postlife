@@ -1,0 +1,14 @@
+layout_spectrum: 0.8187349559739232
+typography_spectrum: 0.7070277333259583
+color:
+  brandStrength: 0.7235587642062455
+  lightness: 0.9185363701544702
+  saturation: 0.3549104498233646
+  rhythmicContrast: 0.17497604712843895
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: postlife
